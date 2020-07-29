@@ -1,0 +1,11 @@
+E:\Moscow\Sklad\Sklad\bin\Debug\Sklad.exe.config
+E:\Moscow\Sklad\Sklad\bin\Debug\Sklad.exe
+E:\Moscow\Sklad\Sklad\bin\Debug\Sklad.pdb
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.csprojResolveAssemblyReference.cache
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.Form1.resources
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.Form2.resources
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.Form3.resources
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.Properties.Resources.resources
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.csproj.GenerateResource.Cache
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.exe
+E:\Moscow\Sklad\Sklad\obj\Debug\Sklad.pdb
